@@ -18,11 +18,11 @@ public class Book {
         obj.yearOfPublishing = 2021;
         obj.iSBNNumber = 1234567890123L;
 
-        System.out.println("obj.title = " + obj.title);
+
         System.out.println("obj.authorName = " + obj.authorName);
         System.out.println("obj.yearOfPublishing = " + obj.yearOfPublishing);
         System.out.println("obj.iSBNNumber = " + obj.iSBNNumber);
-
+        System.out.println("obj.title = " + obj.title);
     }
     
 }
